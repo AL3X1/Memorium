@@ -1,0 +1,3 @@
+MainPackage=C:\Users\Alex\source\repos\Memorium\Memorium\bin\ARM\Debug\Memorium_0.0.4.0_ARM_Debug.appx
+SymbolPackage=C:\Users\Alex\source\repos\Memorium\Memorium\AppPackages\Memorium_0.0.4.0_Debug_Test\Memorium_0.0.4.0_ARM_Debug.appxsym
+ResourcePack=C:\Users\Alex\source\repos\Memorium\Memorium\bin\ARM\Debug\Memorium_0.0.4.0_language-ru.appx

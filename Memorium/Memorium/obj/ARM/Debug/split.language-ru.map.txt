@@ -1,0 +1,6 @@
+﻿[ResourceMetadata]
+"ResourceId"			"split.language-ru"
+"ResourceDimensions"		"language-ru-ru"
+
+[Files]
+"C:\Users\Alex\source\repos\Memorium\Memorium\obj\ARM\Debug\split.language-ru.pri"			"resources.pri"

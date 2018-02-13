@@ -1,0 +1,5 @@
+App.xbf
+Views\CreateTask.xbf
+Views\EditTask.xbf
+Views\MainPage.xbf
+Views\ShowTask.xbf
